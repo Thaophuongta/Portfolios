@@ -6,7 +6,7 @@ In this exercise, I implemented exploratory data analysis, set up data model rel
 Highlighted Techniques used: EDA, drill down hierarchy, measures and calculated columns, map, Decomposition Tree, Treemap, Column Charts, etc.
 
 # Dataset and Report #
-Dataset: files are attached in the Dataset folder for reference. \
+Download Dataset here: [Link](https://github.com/Thaophuongta/Portfolios/assets/149331018/16d29a01-4b8e-43d8-ac88-4241c11bd6c8)\
 Sales Dashboard: [Power BI Link](https://app.powerbi.com/links/SvrsfeI8qq?ctid=6efd0f20-57c8-4447-b53f-00d4992ca50b&pbi_source=linkShare)
 
 # Some project Images #
