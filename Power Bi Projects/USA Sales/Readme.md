@@ -11,7 +11,7 @@ Sales Dashboard: [Power BI Link](https://app.powerbi.com/links/SvrsfeI8qq?ctid=6
 
 # Some project Images #
 ### Date Model ###
-![sales-model](https://github.com/Thaophuongta/Portfolios/assets/149331018/e850f586-857c-4b7a-be10-de68744ba042)
+![sales-model](https://github.com/Thaophuongta/Portfolios/assets/149331018/f915abb9-ed0c-45b6-a694-61085eaea650)
 
 ### Dashboard ###
 ![sales 1](https://github.com/Thaophuongta/Portfolios/assets/149331018/16d29a01-4b8e-43d8-ac88-4241c11bd6c8)
