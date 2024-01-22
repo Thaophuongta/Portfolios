@@ -6,7 +6,7 @@ In this exercise, I implemented exploratory data analysis and built different vi
 Highlighted Techniques used: EDA, Parameters and calculated fields, created Doughnut and Butterfly Chart, map, Area Chart, Pie Chart, Bar Chart, Column Charts, Page Navigation etc.
 
 # Dataset and Report #
-Dataset: files are attached in the Dataset folder for reference. \
+Dataset: file is attached in this folder for reference. \
 Supermarket Sales Dashboard: [Tableau Link](https://public.tableau.com/views/Tableau-SupermarketSales/Dashboard-Thao?:language=en-GB&:display_count=n&:origin=viz_share_link)
 
 # Some project Images #
