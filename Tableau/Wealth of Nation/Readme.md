@@ -4,7 +4,7 @@ I created a Tableau Dashboards to explore Nations' statistics regarding GDP (per
 Highlighted Techniques used: EDA, Parameters and calculated fields, Packed Bubbles Chart, Bar Chart, Column Charts, etc.
 
 # Dataset and Report #
-Dataset: files are attached in the Dataset folder for reference. \
+Dataset: file is attached in this folder for reference. \
 Wealth of Nations Dashboard: [Tableau Link](https://public.tableau.com/views/TheWealthofTheNations/Dashboard?:language=en-GB&:display_count=n&:origin=viz_share_link)
 
 # Project Image #
