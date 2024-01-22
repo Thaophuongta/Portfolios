@@ -9,4 +9,5 @@ Wealth of Nations Dashboard: [Tableau Link](https://public.tableau.com/views/The
 
 # Project Image #
 ### Dashboard ###
+![wealth of nation](https://github.com/Thaophuongta/Portfolios/assets/149331018/fafd6922-0456-42e5-882f-1a343e289907)
 
