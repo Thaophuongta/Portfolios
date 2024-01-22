@@ -6,7 +6,7 @@ In this exercise, I carried out exploratory data analysis, set up Star model rel
 Highlighted Techniques used: drill through, drill down hierarchy, bookmarks, data model & EDA, Scatterplot, Ribbon, Tornado, Treemap, Bar Charts, Column Charts, etc.
 
 # Dataset and Report #
-Dataset: www.Datacamp.com or files attached in this folder for reference. \
+Dataset: www.Datacamp.com or files are attached in the Dataset folder for reference. \
 Atlas Labs Report: [Power BI Link](https://app.powerbi.com/links/YAMi8VF9Pe?ctid=6efd0f20-57c8-4447-b53f-00d4992ca50b&pbi_source=linkShare&bookmarkGuid=a21e3bdf-9a4d-445e-9bfd-0fa7bbbc6c10)
 
 # Some project Images #
