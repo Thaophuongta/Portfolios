@@ -6,7 +6,7 @@ Exploratory Data Analysis (EDA) and cleaning process were completed in Python an
 Highlighted techniques: Python EDA, data cleaning, treemap, lines chart, Bar Charts, Column Charts, etc.
 
 # Dataset and Report #
-Dataset: files are attached in the Dataset folder for reference. \
+Dataset: file is attached in this folder for reference. \
 Dashboard: [Power BI Link](https://app.powerbi.com/links/TGLiraCsQn?ctid=6efd0f20-57c8-4447-b53f-00d4992ca50b&pbi_source=linkShare)
 
 # Some project Images #
