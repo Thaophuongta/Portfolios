@@ -11,4 +11,5 @@ Dashboard: [Power BI Link](https://app.powerbi.com/links/TGLiraCsQn?ctid=6efd0f2
 
 # Some project Images #
 ### Dashboard ###
-![Hollywood](https://github.com/Thaophuongta/Portfolios/assets/149331018/6e21a9ef-5f69-4872-bdef-fda676c56a00)
+![Hollywood](https://github.com/Thaophuongta/Portfolios/assets/149331018/968b1858-68e2-414d-bcc1-190a27fab731)
+
