@@ -3,7 +3,7 @@ I created a Power BI report to explore Human Resources Data in a software compan
 
 In this exercise, I carried out exploratory data analysis (EDA), set up Star model relationships, and used DAX to help build powerful visualisations. In particular, I learned an overview of company staff structure, demographics, key human resources information, and performance analysis for each employee, as well as diving deeper into attrition and what factors impact attrition. This analysis will help the organization determine what action to take to retain more employees.
 
-Highlighted Techniques used: drill through, drill down hierarchy, created Date Table, bookmarks, data model & EDA, Scatterplot, Ribbon, Tornado, Treemap, Bar Charts, Column Charts, etc.
+Highlighted techniques: drill through, drill down hierarchy, created Date Table, bookmarks, data model & EDA, Scatterplot, Ribbon, Tornado, Treemap, Bar Charts, Column Charts, etc.
 
 # Dataset and Report #
 Dataset: www.Datacamp.com or files are attached in the Dataset folder for reference. \
