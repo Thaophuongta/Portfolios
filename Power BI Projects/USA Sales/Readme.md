@@ -3,7 +3,7 @@ I created a Power BI Dashboard to explore USA sales across sectors for the perio
 
 In this exercise, I implemented exploratory data analysis, set up data model relationships, and built different visualisations to find out which factors affected Revenue the most among regions, cities, segments, products, regions, and over times.
 
-Highlighted Techniques used: EDA, drill down hierarchy, measures and calculated columns, map, Decomposition Tree, Treemap, Column Charts, etc.
+Highlighted techniques: EDA, drill down hierarchy, measures and calculated columns, map, Decomposition Tree, Treemap, Column Charts, etc.
 
 # Dataset and Report #
 Dataset: files are attached in the Dataset folder for reference. \
