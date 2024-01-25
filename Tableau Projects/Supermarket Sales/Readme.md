@@ -1,9 +1,9 @@
 # Introduction #
-I created a Tableau Dashboards to explore USA Supermarket Sales across for the period from 2014 - 2017.
+I created a Tableau Dashboard to explore USA Supermarket Sales for the period from 2014 - 2017.
 
 In this exercise, I implemented exploratory data analysis and built different visualisations to examine different factors affecting Revenue and Profit.
 
-Highlighted Techniques used: EDA, Parameters and calculated fields, created Doughnut and Butterfly Chart, map, Area Chart, Pie Chart, Bar Chart, Column Charts, Page Navigation etc.
+Highlighted techniques: EDA, Parameters and calculated fields, created Doughnut and Butterfly Chart, map, Area Chart, Pie Chart, Bar Chart, Column Charts, Page Navigation, etc.
 
 # Dataset and Report #
 Dataset: file is attached in this folder for reference. \
