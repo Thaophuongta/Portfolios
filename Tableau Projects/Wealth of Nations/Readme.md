@@ -1,5 +1,5 @@
 # Introduction #
-I created a Tableau Dashboards to explore Nations' statistics regarding GDP (per capita), life expentancy at birth, number of smart phone users. Note: client is colour blind.
+I created a Tableau Dashboard to explore Nations' statistics regarding GDP (per capita), life expectancy at birth, and number of smartphone users. Note: client is colour blind.
 
 Highlighted Techniques used: EDA, Parameters and calculated fields, Packed Bubbles Chart, Bar Chart, Column Charts, etc.
 
