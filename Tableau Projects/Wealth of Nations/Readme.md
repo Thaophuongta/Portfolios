@@ -1,7 +1,7 @@
 # Introduction #
 I created a Tableau Dashboard to explore Nations' statistics regarding GDP (per capita), life expectancy at birth, and number of smartphone users. Note: client is colour blind.
 
-Highlighted Techniques used: EDA, Parameters and calculated fields, Packed Bubbles Chart, Bar Chart, Column Charts, etc.
+Highlighted techniques: EDA, Parameters and calculated fields, Packed Bubbles Chart, Bar Chart, Column Charts, etc.
 
 # Dataset and Report #
 Dataset: file is attached in this folder for reference. \
